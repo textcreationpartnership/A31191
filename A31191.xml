@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of Theodore Bathurst, Esq., relating to his bill in Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31191</idno>
+            <idno type="STC">Wing C1180</idno>
+            <idno type="STC">ESTC R2299</idno>
+            <idno type="EEBO-CITATION">12015618</idno>
+            <idno type="OCLC">ocm 12015618</idno>
+            <idno type="VID">52523</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31191)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52523)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 19:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of Theodore Bathurst, Esq., relating to his bill in Parliament</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from colophon; place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bathurst, Theodore, d. 1651.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:52523:1" rendition="simple:additions"/>
+            <head>THE CASE OF <hi>Theodore Bathurſt, Eſq;</hi> Relating to his BILL IN PARLIAMENT.</head>
+            <p>KING <hi>James</hi> the Firſt ſeized in Fee of the Mannor <hi>Arkil<g ref="char:EOLhyphen"/>garthdale</hi> in <hi>Yorkſhire,</hi> wherein were great Waſtes,<note place="margin">
+                  <hi>21</hi> Jacobi.</note> as well as Incloſures (extending into the Pariſh of <hi>Arkingarth,</hi> a<g ref="char:EOLhyphen"/>lias <hi>Arkilgarth,</hi> where were Mines, called the Lead Mines into the Pariſh of <hi>Kirby-Hill,</hi> where was New-Forreſt Parcel of the Pariſh compriſing the whole Forreſt, and into the Pa<g ref="char:EOLhyphen"/>riſh of <hi>Barningham,</hi> where Hopes Farmes lye) Demiſed to <hi>Ambroſe Appleby</hi> for twenty one Years at 3 <abbr>
+                  <hi>l.</hi>
+               </abbr> 10 <hi>
+                  <abbr>s.</abbr> per Annum</hi> all thoſe Mines of Lead, called the Lead Mines, in all Places, Waſtes, Moors, and Heaths, within the Mannor of <hi>Arthgarthdale,</hi> alias <hi>Arkilgarthdale,</hi> and within New-Forreſt, and all that Coal-Mine within the ſaid Mannor and Forreſt, Parcel of the Mannors of <hi>Middleham</hi> and <hi>Richmond,</hi> or either of them, and Liberty of Digging and gaining Lead and Coal in the ſaid Mines, or any of them, and in the Places, Waſtes, Moors, Heaths of the ſaid Mannor, and New-Forreſt, and all Pro<g ref="char:EOLhyphen"/>fits from the ſaid Mines, or any of them from time to time ariſing; And he demiſed all his Tenements in the ſaid New-forreſt, which compriſed all New-Forreſt, ſave the Soil of the Commonable Waſtes, for forty Years at 12 <abbr>
+                  <hi>l.</hi>
+               </abbr> 6 <hi>
+                  <abbr>d.</abbr> per Annum.</hi>
+            </p>
+            <p>King <hi>Charles</hi> by Letters Patents,<note place="margin">
+                  <hi>25</hi> Sepi. <hi>4.</hi> Ca<g ref="char:EOLhyphen"/>roli.</note> for valuable Conſideration granted to <hi>Edward Ditchfield,</hi> and others in Fee-Farm, in truſt for the City of <hi>London,</hi> the Mannor of <hi>Arkilgarthdale</hi> with its Rights, Mem<g ref="char:EOLhyphen"/>bers, and Appurtenances, and all his Lands and Tenements in the Pa<g ref="char:EOLhyphen"/>riſhes of <hi>Arkilgarthdale</hi> and <hi>Arkilgarth,</hi> and all his Lands and Tene<g ref="char:EOLhyphen"/>ments in the Poſſeſſion of Tenants in New-Forreſt, in <hi>Arkilgarthdale,</hi> by particular of 12 <abbr>
+                  <hi>l.</hi>
+               </abbr> 6 <hi>
+                  <abbr>d.</abbr> per Annum,</hi> and all that Gieſt Room
+<pb n="2" facs="tcp:52523:2"/>there, (<hi>viz.</hi> a large Several) And all that Farm of <hi>Puniſhaws</hi> there, and all thoſe Mines of Lead, called the Lead Mines, in all Places, Waſtes, Moors, and Heaths, within the Mannor of <hi>Archgarthdale,</hi> alias <hi>Arkil<g ref="char:EOLhyphen"/>garthdale,</hi> and within the New-Forreſt, and all thoſe Coal Mines within the ſaid Mannor and Forreſt, parcel of the Mannors of <hi>Middleham</hi> and <hi>Richmond,</hi> or in either of them, and liberty of digging and gaining Lead and Coal in the ſaid Mines, or in any of them, in the Waſtes, Places, Moors, and Heaths of the ſaid Mannor, and New-Forreſt, and all profits from the ſaid Mines, or any of them, from time to time ari<g ref="char:EOLhyphen"/>ſing, then or late in the tenure or occupation of <hi>Ambroſe Appleby,</hi> by particular thereof mentioned to be of the yearly Rent or value of 3 <abbr>
+                  <hi>l.</hi>
+               </abbr> 10 <abbr>
+                  <hi>s.</hi>
+               </abbr> Except all Liberties, and Juriſdictions of Forreſts, ſo far as the ſaid New-Foreſt extends it ſelf; And all Meſſuages, Lands, Woods, Waſtes, Courts, Felongs good, and all other Hereditaments, <hi>tot, tant, tal,</hi> to the ſaid Premiſes in his Letters Patents compriſed, or to any of them belonging, or taken as part thereof, in as large a manner, as enjoy<g ref="char:EOLhyphen"/>ed by him, any of his Predeceſſors, or any other Perſon whatſoever, Except all Forreſts and Chafes, and all Parks then uſed and repleniſhed with Deer, Knights Fees, Wards and Marriages, and ſeveral Eccleſiaſti<g ref="char:EOLhyphen"/>cal Priviledges, and all Mines of Gold and Silver; rendring 53 <abbr>
+                  <hi>l.</hi>
+               </abbr> 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> 1 <abbr>
+                  <hi>d.</hi>
+               </abbr> ½ <hi>per Annum.</hi> Under agreement to give the Royal Aſſent to to any Bill in Parliament for better aſſurance.</p>
+            <p>Doctor <hi>Bathurſt,</hi> Father of <hi>Theodore,</hi> purchaſed the Premiſes in Fee, in Truſtees Names, and purchaſed in Fee, partly in his own Name, and partly in the name of Truſtees, ſeveral Mannors, Meſſuages, and Hereditaments, in <hi>Skutterſkelfe, Thoralby, Braworth, Langton,</hi> alias <hi>Laug<g ref="char:EOLhyphen"/>ton</hi> upon <hi>Swale, Clints,</hi> and <hi>Richmond</hi> in the ſaid County of <hi>York,</hi> in the whole of the value of 1100 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> and was ſeized in Fee of ſe<g ref="char:EOLhyphen"/>veral Tenements in <hi>London</hi> and the <hi>Strand,</hi> and was poſſeſſed of a Leaſe for Years in Tenements and Grounds, <hi>Rederiff</hi> in <hi>Surry</hi> of 600 <hi>
+                  <abbr>l.</abbr> per Annum.</hi>
+            </p>
+            <p>Dr. <hi>Bathurſt</hi> by his Will in Writing,<note place="margin">25 <hi>April</hi> 59.</note> deviſed all the Premiſſes to his Executors and their Heirs, to the intent, they ſhould convey the Pre<g ref="char:EOLhyphen"/>miſſes in <hi>London,</hi> the <hi>Strand</hi> and <hi>Rederiff,</hi> when his Son <hi>John</hi> attained twenty five years of Age; ſo as the ſame might be held by him for his Life, and after his Death, by his firſt and every other Son ſucceſſively in Tail; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by his Daughters in Tail; remainder by <hi>Theodore</hi> for Life, with like remainders for his Sons and Daughters: Remain<g ref="char:EOLhyphen"/>der by the Teſtatours right Heirs for ever. And to the intent they ſhould convey the Premiſſes in <hi>Arkilgarthdale,</hi> New-Forreſt, <hi>Skutterſkelfe, Thoralby Braworth,</hi> great <hi>Langton,</hi> alias <hi>Langton</hi> upon <hi>Swale, Clints, Kirby-Hill,</hi> and <hi>Richmond,</hi> when his Son <hi>Theodore</hi> attained twenty five years of Age, ſo as the ſame might be held by him for Life, without Impeachment of Waſte; And after his Death, by his firſt and every other Son ſucceſſively in Tail, remainder by his Daughters in Tail, remainder by his Son <hi>John Bathurſt</hi> for Life, with like Remainders for his Sons and Daughters; remainder by the Teſtatours right Heirs for ever (only as to <hi>Arkilgarthdale,</hi> and New-Forreſt, <hi>Clints, Richmond,</hi> and <hi>Kirby-Hill;</hi> the Intail to the Daughters of either of them was omitted.</p>
+            <p>The Teſtator ſoon after died Intereſted, as aforeſaid, and his Execu<g ref="char:EOLhyphen"/>tors proved his Will, and when <hi>John Bathurst</hi> the Son attained twenty five years of Age, they conveyed the Premiſſes in <hi>London,</hi> the <hi>Strand,</hi> and <hi>Rederiff</hi> to him with ſuch limitations as the Will directed. <hi>John Ba<g ref="char:EOLhyphen"/>thurſt</hi> the Son having Iſſue, ſold the Premiſſes in <hi>Rederiff,</hi> whereby <hi>Theodore</hi> can have no benefit by that Eſtate. <hi>Theodore</hi> married with <hi>Let<g ref="char:EOLhyphen"/>tice,</hi> one of the Daughters of Sir <hi>John Repington,</hi> with whom he re<g ref="char:EOLhyphen"/>ceived 1500 <abbr>
+                  <hi>l.</hi>
+               </abbr> Portion, and gave Bond to Jointure her in 300 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> and hath Iſſue by her, two Sons, and three Daughters, and his Eldeſt Son <hi>Charles</hi> is about fifteen years old.</p>
+            <pb n="3" facs="tcp:52523:3" rendition="simple:additions"/>
+            <p>The Executors made a Leaſe for twenty one Years of the Lead Mines,<note place="margin">20. <hi>Nov.</hi> 1672.</note> as well open as not open, in the Waſtes of <hi>Arbilgarthdale,</hi> and New-Forreſt, together with a Lead Mill in parcel of <hi>Clints</hi> Farm, and Li<g ref="char:EOLhyphen"/>berty of taking Wood from the demeaſne of the Mannor of <hi>Arkilgarth<g ref="char:EOLhyphen"/>dale,</hi> for the uſe of the Mines; to <hi>John Bathurſt</hi> the Son, at 150 <hi>
+                  <abbr>l.</abbr> per. Annum.</hi>
+            </p>
+            <p>The Executors conveyed the Premiſſes in <hi>Arkilgarthdale,</hi>
+               <note place="margin">20 <hi>Sept.</hi> 1677.</note> and New-Forreſt, <hi>Kirkby-Hill, Skutterſkelfe, Thoralby, Braworth,</hi> great <hi>Langton, Clints,</hi> and <hi>Richmond,</hi> to the ſaid <hi>Theodore,</hi> with ſuch limitations, as the Will directed, with Covenants againſt their Incumbrances; ex<g ref="char:EOLhyphen"/>cepting the ſaid twenty one Years Leaſe.</p>
+            <p>
+               <hi>John Bathurſt</hi> opened new Lead Mines in the Waſtes of parcel of the Mannor of <hi>Arkilgarthdale,</hi> within the Pariſh of <hi>Arkilgarth;</hi> But none hath ever been wrought in the New-Forreſt.</p>
+            <p>A conſtant and quiet Poſſeſſion hath gone along with the Grant from the King, ever ſince the Patent, which is above ſixty years, and all the Forreſt was thereby enjoyed.</p>
+            <p>By Perambulation, 31 <hi>H.</hi> 8. The Bounds of the Forreſt were ſet out, and extend not to any parcel of the Mannor, but what lies within the Pariſh of <hi>Kirkby-Hill,</hi> and no Forreſt Courts, Verderers, nor Re<g ref="char:EOLhyphen"/>gard have been ever ſince there uſed.</p>
+            <p>An Inquiſition founded on a Commiſſion under the great Seal,<note place="margin">15 <hi>Sept.</hi> 87.</note> was clandeſtinely and illegally taken, by promotion of ſeveral Papiſts, and Forreſt-Officers, with whom ſome Perſons of worth were joined to co<g ref="char:EOLhyphen"/>lour the Matter, and incautelouſly acted, at the Inſtigation of the then <hi>Lieutenant Colonel, Archibald Douglas,</hi> at that time a Papiſt,<note place="margin">
+                  <hi>Note,</hi> though theſe are ſup<g ref="char:EOLhyphen"/>poſed to be concealed Lands; yet the fee Farm rent hath been from time to time always anſwered for them.</note> and late Con<g ref="char:EOLhyphen"/>vert; who forcibly kept <hi>Theodore</hi> from giving his Title in Evidence, and thereby its found by a Jury, whereof ſix were Papiſts, and before Commiſſioners; that had not ſufficient Freehold, and were moſt of them Papiſts, That the Lands and Tenements therein ſpecified (being all the Farms in <hi>Arkilgarth,</hi> and New-Forreſt: And all the Mannor of <hi>Arkilgarthdale,</hi> except the Farms of <hi>Hopes,</hi> compriſed in the Patent 4 <hi>Car.</hi>) were parcel of the Forreſt of <hi>Arkilgarthdale,</hi> of 300 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> and were concealed, and detained by <hi>Thodore,</hi> from the King; and that <hi>John Bathurſt</hi> aforeſaid, had incroached Parcel of the ſaid For<g ref="char:EOLhyphen"/>reſt in Lead Mines there digged, and that the Commiſſioners therein had ſeized all into the King's Hands.</p>
+            <p>The inquiſition being certained into the Petty-bag,<note place="margin">
+                  <hi>Mich.</hi> Term. 1687.</note> and Field the firſt of <hi>December,</hi> 87. The then Attorney-General exhibited a Bill in <hi>Chancery,</hi> ſuggeſting the Inquiſition, and that all Forreſts, Chaſes and Parks then uſed and ſtored with Deer, were excepted in the Patent 4 <hi>Car.</hi> And prayed an Injunction to ſtay working the Mines.</p>
+            <p>Upon the then Attorney-Generals Motion for ſuch Inquiſition,<note place="margin">14. <hi>Dec.</hi> 87.</note> it was ordered, he be attended with the Patent 4 <hi>Car.</hi> which, as well as the Affidavits of Illegal Proceedings in the Inquiſition, <hi>Theo<g ref="char:EOLhyphen"/>dore</hi> objected againſt the Injunction, and the Attorney was accordingly attended.</p>
+            <p>
+               <hi>Theodore</hi> by Anſwer ſets forth the Patent, and his Title thereby,<note place="margin">15 <hi>Jan.</hi> 87. 11 <hi>Feb.</hi> 87. 13 <hi>Feb.</hi> 87.</note> and that the Exception of Forreſts extended only to ſuch Forreſts where Juriſdiction of Forreſts was not excepted in particular, and that the Juriſdiction was taken away by Stat. 16. <hi>Car.</hi> 1. for de<g ref="char:EOLhyphen"/>fault of Courts and Verderers, and Regard for ſixty Years before 1 <hi>Car.</hi> 1. And he pleaded in due time his Title, to the ſaid Inqui<g ref="char:EOLhyphen"/>ſition and Traverſeth any Concealment or Detention from the King, and purſuant to Orders for continuing his Poſſeſſion, gave 2000 <abbr>
+                  <hi>l.</hi>
+               </abbr> Recognizance to proſecute his Traverſe with Effect.</p>
+            <p>
+               <hi>Theodore</hi> complained of double Vexation;<note place="margin">14 <hi>March</hi> 87.</note> but the Court refuſed to ſtay any Proceedings: <hi>vid.</hi> Stat. 36. <hi>E.</hi> 3.13. and Stat. 8. <hi>H.</hi> 6.16.</p>
+            <pb n="4" facs="tcp:52523:4" rendition="simple:additions"/>
+            <p>Attorney reported, That <hi>John Bathurſt</hi> was willing to attorn Te<g ref="char:EOLhyphen"/>nant to the King, and to bring his Rent into Court, and that <hi>Theodore,</hi> and the other Parties had conſented thereto, and that therefore the Mines might be wrought.<note place="margin">
+                  <hi>May</hi> 23. 88.</note>
+            </p>
+            <p>
+               <hi>Theodore</hi> inſiſting for Payment of the Rent to himſelf, and by Affidavit denying any Conſent to the contrary; It was ordered that the Rents ſtay in the Tenants Hands.</p>
+            <p>Attorney General cauſed the Commiſſion and Inquiſition to be tranſ<g ref="char:EOLhyphen"/>mitted into the Exchequer;<note place="margin">
+                  <hi>May</hi> 26. 88.</note> and there exhibited an Information of Intruſion againſt <hi>Theodore,</hi> for the Lands and Mines in the Inquiſition mentioned.</p>
+            <p>At inſtance of Attorney General,<note place="margin">
+                  <hi>Vide Stat.</hi> 8 <hi>H.</hi> 6.16. <hi>Stat.</hi> 1. <hi>H.</hi> 8.10.</note> a Leaſe was granted under the Broad Seal, to the ſaid <hi>Douglaſs</hi> (in conſideration of his Coſts in Pro<g ref="char:EOLhyphen"/>ſecution) of the Forreſt of <hi>Arkiglarchdale, alias New-Forreſt,</hi> in <hi>Arkil<g ref="char:EOLhyphen"/>garthdale,</hi> and of the Premiſes in the Inquiſition; except Fee-Farm Rents, for one and fifty Years, at ſix <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound-eight Shillings <hi>per annum.</hi>
+            </p>
+            <p>
+               <hi>Theodore</hi> made Affidavit of his Poſſeſſion,<note place="margin">
+                  <hi>Novem.</hi> 12. 88.</note> purſuant to the Statute, 21 <hi>Jacob.</hi> and pleaded Not Guilty to the Information of Intruſion.<note place="margin">
+                  <p>
+                     <hi>Note,</hi> This In<g ref="char:EOLhyphen"/>dictment was proſecuted againſt <hi>Theo<g ref="char:EOLhyphen"/>dore,</hi> at the In<g ref="char:EOLhyphen"/>ſtigation of ſome that bore him Ma<g ref="char:EOLhyphen"/>lice, becauſe he ſtood to ſerve in Par<g ref="char:EOLhyphen"/>liament for a Burrough, to the Inconve<g ref="char:EOLhyphen"/>nience of thethen faſhion<g ref="char:EOLhyphen"/>abe Intereſt, they promot<g ref="char:EOLhyphen"/>ed, and was found upon the Teſtimo<g ref="char:EOLhyphen"/>ny of one, who was afterward convicted or Perjury for it.</p>
+                  <p>
+                     <hi>Note,</hi> The defence of theſe Suits concerned not only the Intereſt of <hi>Theodore Bathurſt,</hi> but alſo the Remainder to his Children, and the Remainders to <hi>John Bathurſt</hi> and his Children; which all would have been deſtroyed, if the Suits had not been defended.</p>
+               </note> By theſe multiplicities of Suits and Vexations Proceedings, and a Suit in the Exchequer, touching the Executors Breach of Truſt in granting the twenty one Years Leaſe to <hi>John Bathurſt,</hi> and alſo by a falſe and malicious Indictment, whereof he was acquitted; <hi>Theodore</hi> hath been put to above fifteen hundred Pound Charge; and by ſtocking part of the Premiſes, thrown into his Hands about <hi>Ladyday</hi> 1687, he hath been further put to one thouſand Pound Charges, and was forced to borrow all the Money; and having no other Eſtate, he is unable, with<g ref="char:EOLhyphen"/>out an Act of Parliament, to make any Joynture for his Wife, any Proviſion for his Daughters and younger Children, or for payment of his Debts; and if a ſpeedy ſtop be not put to the vexatious Suits, he ſhall be forced to ſpend five hundred Pound more, without any pro<g ref="char:EOLhyphen"/>ſpect of reimburſement; which, with the unjuſt detention of his Rents, occaſioned thereby, will tend to his utter Ruine. The which Troubles moſt likely had not fallen upon him, would he have granted to <hi>John Bathurſt</hi> another term of the Mines, he and his Agents having often confeſſed and promiſed on ſo doing, that they would undertake to take up the Suits, or manage them at their own Charge.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year, 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
